@@ -164,7 +164,7 @@ todo-list/
 
 <div align="center">
 
-I'm **Shivansh** — a first-year student doing B.Tech (Mechanical Engineering) at IET Lucknow and BS (Data Science & Applications) at IIT Madras simultaneously. This To-Do List was the first Python project I built while learning the language from scratch.
+I'm **Shivansh** — a second-year student doing B.Tech (Mechanical Engineering) at IET Lucknow and BS (Data Science & Applications) at IIT Madras simultaneously. This To-Do List was the first Python project I built while learning the language from scratch.
 
 It's small. It's simple. And it means a lot.
 
